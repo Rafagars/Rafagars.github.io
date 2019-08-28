@@ -1,0 +1,53 @@
+#logo-img{
+    width: 50px;
+    margin-right: 10px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background-color: lightcyan;
+    color: black;
+}
+
+.body-content{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    min-height: 100%;
+}
+
+.inside_container{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.flex{
+    display: flex;
+}
+
+#header{
+    background-color: #122b40;
+}
+.navbar-brand{
+  color: white;
+  font-size: 2em
+}
+
+
+
+.panel-footer{
+    height: 50px;
+    margin-top: -50px;
+    background-color: #122b40;
+    color: white;
+    width: 100%;
+
+}
+
+img {
+    width: 80%;
+}
+
